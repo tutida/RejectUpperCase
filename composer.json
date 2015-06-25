@@ -1,9 +1,9 @@
 {
-    "name": "tutida/RejectUpperCase",
-    "description": "RejectUpperCase plugin for CakePHP",
+    "name": "tutida/reject-upper-case",
+    "description": "reject-upper-case plugin for CakePHP",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "illegal address"],
-    "homepage": "https://github.com/tutida/RejectUpperCase",
+    "homepage": "https://github.com/tutida/reject-upper-case",
     "license": "MIT",
     "authors": [
         {
